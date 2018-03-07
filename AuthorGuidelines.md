@@ -52,7 +52,7 @@ JOSE papers contain a limited set of metadata (see header in the [sample article
 
 ## How will the review proceed?
 
-You should read the [reviewer guidelines](https://github.com/labarba/jose/blob/master/ReviewerGuidelines.md) to help you understand what our reviewers will be looking for. Provided you have followed our pre-submission steps and meet our submission requirements then you should expect the review to proceed at a quick pace.
+You should read the [reviewer guidelines](ReviewerGuidelines.md) to help you understand what our reviewers will be looking for. Provided you have followed our pre-submission steps and meet our submission requirements then you should expect the review to proceed at a quick pace.
 
 Review workflow:
 
